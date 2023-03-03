@@ -1,5 +1,6 @@
 For more infomation watch Youtube Video. <br>
   <br><br>
+Google Colab link https://colab.research.google.com<br><br>
 Download the file from code <br>
 In all_user.csv Paste your gmail ids and keys. <br>
 in folder emails_template You have to make 10 email messages to send<br>
